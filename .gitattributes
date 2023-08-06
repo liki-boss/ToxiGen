@@ -1,0 +1,5 @@
+. filter=lfs diff=lfs merge=lfs -text
+jigsaw-unintended-bias-train.csv filter=lfs diff=lfs merge=lfs -text
+*.psd,*.csv filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
